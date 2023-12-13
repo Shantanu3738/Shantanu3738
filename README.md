@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantanu3738
+- 👋 Hi, I’m Shantanu De
 - 👀 I’m interested in learning new stuffs and possibly create things.
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me - shantanudey009@gmail.com
