@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shantanu3738
 - 👀 I’m interested in learning new stuffs and possibly create things.
-- 🌱 I’m currently learning Front-End Web Development.
+- 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me - shantanudey009@gmail.com
 
 <!---
