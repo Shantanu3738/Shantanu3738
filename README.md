@@ -6,19 +6,19 @@ I’m a passionate QA professional with 3 years of experience in manual and auto
 
 🚀 Skills & Tools
 
-Testing Frameworks: Selenium, Playwright, TestNG, JUnit
+Testing Frameworks: Selenium, Playwright, TestNG
 
 Languages: Java, JavaScript, Python (basics)
 
-Automation Tools: Selenium WebDriver, Playwright, Cypress (basic knowledge)
+Automation Tools: Selenium WebDriver, Playwright
 
 API Testing: Postman, Rest Assured, Playwright API Testing
 
 Build & CI/CD: Maven, Jenkins, GitHub Actions
 
-Cloud Testing Platforms: BrowserStack, Sauce Labs
+Cloud Testing Platforms: BrowserStack
 
-Defect Tracking: JIRA, Azure DevOps
+Defect Tracking: JIRA
 
 Version Control: Git, GitHub
 
