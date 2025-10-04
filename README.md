@@ -6,9 +6,9 @@ I’m a passionate QA professional with 3 years of experience in manual and auto
 
 🚀 Skills & Tools
 
-Testing Frameworks: Selenium, Playwright, TestNG
+Testing Frameworks: Playwright, Selenium, TestNG
 
-Languages: Java, JavaScript, Python (basics)
+Languages: JavaScript, JAVA
 
 Automation Tools: Selenium WebDriver, Playwright
 
