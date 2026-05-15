@@ -12,7 +12,7 @@ Languages: JavaScript, JAVA
 
 Automation Tools: Selenium WebDriver, Playwright
 
-AI tools: Github Copilot, Playwright Claude CLDI, Playwright agents
+AI tools: Github Copilot, Playwright Claude CLI, Playwright agents
 
 API Testing: Postman, Rest Assured, Playwright API Testing
 
