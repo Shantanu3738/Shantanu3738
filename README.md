@@ -31,11 +31,13 @@ Version Control: Git, GitHub
 
 Designed and executed automation test scripts for regression and smoke testing.
 
-Built test automation frameworks using Selenium + TestNG + Maven.
+Built test automation frameworks using Playwright + Javascript + Mocha
 
-Worked with Playwright + JavaScript for modern UI test automation.
+Worked with Selenium + Java for modern UI test automation.
 
 Integrated automation tests in CI/CD pipelines using Jenkins.
+
+Integrated AI tools to speed up tes twritten process and reduce manual work.
 
 Conducted cross-browser testing on BrowserStack and local environments.
 
